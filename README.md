@@ -6,4 +6,4 @@
 
 My projects:
 
-* https://dushialimentos.co made by Daniel Ramirez and me
+* https://dushialimentos.co made by Daniel Ramirez and Simón Marín 
