@@ -7,3 +7,4 @@
 My projects:
 
 * https://dushialimentos.co made by Daniel Ramirez, Simón Marín and me
+* Developer of Open edX - Open Source enrollment plugin for WordPress using WooCommerce. Repo link: https://github.com/openedx/openedx-wordpress-ecommerce
